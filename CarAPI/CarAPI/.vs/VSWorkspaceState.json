@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\Model",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Release",
+    "\\Properties",
+    "\\Properties\\PublishProfiles"
+  ],
+  "SelectedNode": "\\Model\\Parking.cs",
+  "PreviewInSolutionExplorer": false
+}
